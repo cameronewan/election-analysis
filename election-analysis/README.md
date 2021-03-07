@@ -17,6 +17,9 @@
 3.	Raymon Anthony Doane: 3.1% (11,606)
 ## Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 1.	Diana DeGette: 73.8% (272,892)
+
+<img width="352" alt="Screen Shot 2021-03-07 at 6 25 24 PM" src="https://user-images.githubusercontent.com/75695931/110259653-acfc0c80-7f76-11eb-80f7-397d4fd9f852.png">
+
 # Election-Audit Summary:
   First and foremost, one way that you can apply the script that we wrote to any other election is loading in a different csv file from a different election. If they wanted to breakdown the data in a different way, for example, how many women and how many men voted. Provided we had that data we would only have to change a couple lines of code to show that in our analysis. Finally, we could apply our script to encompass the whole state and not just counties.  
 
