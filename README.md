@@ -1,4 +1,4 @@
-# election-analysis
+# Election-analysis
 
 # Overview of Election Audit: 
   The purpose of this module was to gather election results for an election committee in Colorado. We local election committee wanted to know which county received the largest percentage of votes and which candidate received the largest percentage of votes. 
@@ -22,7 +22,11 @@
 <img width="352" alt="Screen Shot 2021-03-07 at 6 25 24 PM" src="https://user-images.githubusercontent.com/75695931/110259653-acfc0c80-7f76-11eb-80f7-397d4fd9f852.png">
 
 # Election-Audit Summary:
-  First and foremost, one way that you can apply the script that we wrote to any other election is loading in a different csv file from a different election. If they wanted to breakdown the data in a different way, for example, how many women and how many men voted. Provided we had that data we would only have to change a couple lines of code to show that in our analysis. Finally, we could apply our script to encompass the whole state and not just counties.  
+  First and foremost, one way that you can apply the script that we wrote to any other election is loading in a different csv file from a different election. If they wanted to breakdown the data in a different way, for example, how many women and how many men voted. Provided we had that data we would only have to change a couple lines of code to show that in our analysis. Finally, we could apply our script to encompass the whole state and not just counties. Attached below are some areas of the code that colud be augmented for different elections. Allowing us to analyze different election data and different voter criteria.
+
+<img width="530" alt="Screen Shot 2021-03-07 at 7 49 40 PM" src="https://user-images.githubusercontent.com/75695931/110261449-47138300-7f7e-11eb-81a6-55dd25e91d83.png">
+<img width="468" alt="Screen Shot 2021-03-07 at 7 50 17 PM" src="https://user-images.githubusercontent.com/75695931/110261462-598dbc80-7f7e-11eb-912d-143573b86935.png">
+<img width="519" alt="Screen Shot 2021-03-07 at 7 50 37 PM" src="https://user-images.githubusercontent.com/75695931/110261477-64e0e800-7f7e-11eb-9c35-b75d8b9691bd.png">
 
 
 
